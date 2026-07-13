@@ -1,0 +1,9 @@
+2026-07-13 13:34:21,858 | INFO | ETL Started
+2026-07-13 13:34:21,861 | INFO | CSV Read Successfully
+2026-07-13 13:34:21,866 | INFO | Data Cleaned Successfully
+2026-07-13 13:34:21,945 | INFO | Data Loaded Successfully
+2026-07-13 13:34:21,945 | INFO | ETL Completed Successfully
+2026-07-13 13:39:46,785 | INFO | ========== ETL Started ==========
+2026-07-13 13:39:46,787 | INFO | Extracted 8 records.
+2026-07-13 13:39:46,790 | INFO | Cleaned data. 5 records remaining.
+2026-07-13 13:39:46,916 | INFO | Data loaded successfully.

@@ -1,0 +1,9 @@
+first_name,last_name,gender,age,city,state,signup_date
+Alice,Johnson,Female,28,Dallas,Texas,2026-01-10
+Michael,Brown,Male,35,Chicago,Illinois,2026-02-15
+Emma,Davis,Female,24,Seattle,Washington,2026-03-20
+David,Wilson,Male,42,Miami,Florida,2026-04-05
+Sophia,Martinez,Female,31,Phoenix,Arizona,2026-05-18
+Alice,Johnson,Female,28,Dallas,Texas,2026-01-10
+Tom,Smith,Male,,New York,New York,2026-06-01
+Lisa,White,Female,-5,Boston,Massachusetts,2026-06-02
