@@ -7,3 +7,11 @@
 2026-07-13 13:39:46,787 | INFO | Extracted 8 records.
 2026-07-13 13:39:46,790 | INFO | Cleaned data. 5 records remaining.
 2026-07-13 13:39:46,916 | INFO | Data loaded successfully.
+2026-07-13 14:13:05,839 | INFO | ========== ETL Started ==========
+2026-07-13 14:13:05,846 | INFO | Extracted 10000 records.
+2026-07-13 14:13:05,851 | INFO | Cleaned data. 10000 records remaining.
+2026-07-13 14:13:06,179 | INFO | Data loaded successfully.
+2026-07-13 14:30:07,609 | INFO | ========== ETL Started ==========
+2026-07-13 14:30:07,618 | INFO | Extracted 10000 records.
+2026-07-13 14:30:07,624 | INFO | Cleaned data. 10000 records remaining.
+2026-07-13 14:30:07,860 | INFO | Data loaded successfully.

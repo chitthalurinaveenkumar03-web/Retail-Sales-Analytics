@@ -8,3 +8,5 @@ def load_data(df):
         if_exists="append",
         index=False
     )
+
+    print(f"✅ Loaded {len(df)} records into PostgreSQL")
