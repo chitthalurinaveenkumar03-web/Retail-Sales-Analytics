@@ -1,38 +1,110 @@
-# Retail Sales Analytics
+# 🛒 Retail Sales Analytics Dashboard
 
-## Project Overview
+## 📌 Overview
 
-This project demonstrates an end-to-end Retail Sales Analytics solution using PostgreSQL, SQL, Python, and Power BI.
+This project demonstrates an end-to-end Retail Sales Analytics solution built using Python, PostgreSQL, SQL, and Tableau.
 
-## Tech Stack
+The project covers the complete analytics lifecycle, including data generation, ETL, database design, SQL analysis, and interactive dashboard development.
 
-- PostgreSQL
-- SQL
+---
+
+## 🚀 Tech Stack
+
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Power BI
+- Faker
+- PostgreSQL
+- SQLAlchemy
+- SQL
+- Tableau Public
 - Git
-- VS Code
+- GitHub
 
-## Project Structure
+---
+
+## 📂 Project Architecture
+
+Python (Data Generation)
+        │
+        ▼
+CSV Files
+        │
+        ▼
+ETL Pipeline
+        │
+        ▼
+PostgreSQL Database
+        │
+        ▼
+SQL Analysis
+        │
+        ▼
+Tableau Dashboard
+
+---
+
+## 📊 Dataset
+
+| Table | Records |
+|--------|---------|
+| Customers | 20,000 |
+| Orders | 50,000 |
+| Order Items | 200,000 |
+| Products | 2,000 |
+
+---
+
+## 📈 Dashboard KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+
+---
+
+## 📊 Dashboard Visualizations
+
+- Monthly Sales Trend
+- Sales by State
+- Top Products
+- Top Customers
+- Sales by Category
+- Payment Method Distribution
+
+---
+
+## 📁 Project Structure
 
 Retail-Sales-Analytics/
-├── sql/
-├── python/
+│
 ├── data/
-├── dashboard/
-├── reports/
-├── images/
+├── python/
+├── sql/
+├── tableau/
+├── screenshots/
+├── README.md
+└── requirements.txt
 
-## Features
+---
 
-- Database Design
-- Data Cleaning
-- SQL Analytics
-- Customer Analysis
-- Sales Analysis
-- Product Analysis
-- ETL Pipeline
-- Dashboard
+## ⚡ Features
+
+- Synthetic retail data generation
+- ETL pipeline using Python
+- PostgreSQL relational database
+- SQL analytics queries
+- Tableau interactive dashboard
+- Business KPI reporting
+
+---
+
+## 📷 Dashboard Preview
+
+(Add screenshots here)
+
+---
+
+## 👨‍💻 Author
+
+Naveen Kumar
