@@ -100,10 +100,10 @@ Retail-Sales-Analytics/
 ---
 
 ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-(Add screenshots here)
-
----
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/dashboardretailsales/RetailSalesAnalyticsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+----------
 
 ## 👨‍💻 Author
 
